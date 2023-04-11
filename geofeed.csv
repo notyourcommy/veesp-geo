@@ -1,5 +1,6 @@
 94.242.0.0/18,RU,RU-SPE,St Petersburg
-77.73.64.0/22,RU,RU-SPE,St Petersburg
+77.73.64.0/23,LV,LV-RIX,Riga
+77.73.66.0/23,RU,RU-SPE,St Petersburg
 77.73.68.0/23,RU,RU-SPE,St Petersburg
 77.73.70.0/24,RU,RU-SPE,St Petersburg
 77.73.71.0/24,LV,LV-RIX,Riga
